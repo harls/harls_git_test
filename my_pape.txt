@@ -4,5 +4,7 @@ This is where the methods go:  here!
 
 Methods 1:  I'm fairly certain we did in fact, as it were, shock the primate.
 
+Methods 2:  Something obscure no one will understand.
+
 Results go here.
 
