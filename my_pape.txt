@@ -8,5 +8,7 @@ Methods 2:  Something obscure no one will understand.
 
 Methods 3:  Something stupid in retrospect.
 
+Methods 4:  New idea.
+
 Results go here.
 
